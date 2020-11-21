@@ -1,0 +1,1362 @@
+{
+    "1": {
+        "title": "A family of multi-concept program synthesisers in Alloy<sup>⁎</sup>",
+        "source": "Science of Computer Programming"
+    },
+    "2": {
+        "title": "Bashon: A Hybrid Crowd-Machine Workflow for Shell Command Synthesis",
+        "source": "Proceedings of IEEE Symposium on Visual Languages and Human-Centric Computing, VL/HCC"
+    },
+    "3": {
+        "title": "SIGCOMM 2020 - Proceedings of the 2020 Annual Conference of the ACM Special Interest Group on Data Communication on the Applications, Technologies, Architectures, and Protocols for Computer Communication",
+        "source": "SIGCOMM 2020 - Proceedings of the 2020 Annual Conference of the ACM Special Interest Group on Data Communication on the Applications, Technologies, Architectures, and Protocols for Computer Communication"
+    },
+    "4": {
+        "title": "Semi-supervised learning from demonstration through program synthesis: An inspection robot case study",
+        "source": "Electronic Proceedings in Theoretical Computer Science, EPTCS"
+    },
+    "5": {
+        "title": "Proceedings of the 1st Workshop on Agents and Robots for Reliable Engineered Autonomy, AREA 2020",
+        "source": "Electronic Proceedings in Theoretical Computer Science, EPTCS"
+    },
+    "6": {
+        "title": "Accuracy Improvement for Neural Program Synthesis via Attention Mechanism and Program Slicing",
+        "source": "Proceedings - 2020 IEEE 44th Annual Computers, Software, and Applications Conference, COMPSAC 2020"
+    },
+    "7": {
+        "title": "Learning concise models from long execution traces",
+        "source": "Proceedings - Design Automation Conference"
+    },
+    "8": {
+        "title": "Fuzz testing based data augmentation to improve robustness of deep neural networks",
+        "source": "Proceedings - International Conference on Software Engineering"
+    },
+    "9": {
+        "title": "Synthesizing structured CAD models with equality saturation and inverse transformations",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "10": {
+        "title": "Cognification of program synthesis—a systematic feature-oriented analysis and future direction",
+        "source": "Computers"
+    },
+    "11": {
+        "title": "Learning Generative Models of 3D Structures",
+        "source": "Computer Graphics Forum"
+    },
+    "12": {
+        "title": "Transforming Robot Programs Based on Social Context",
+        "source": "Conference on Human Factors in Computing Systems - Proceedings"
+    },
+    "13": {
+        "title": "Wrex: A Unified Programming-by-Example Interaction for Synthesizing Readable Code for Data Scientists",
+        "source": "Conference on Human Factors in Computing Systems - Proceedings"
+    },
+    "14": {
+        "title": "Synthesizing optimally resilient controllers",
+        "source": "Acta Informatica"
+    },
+    "15": {
+        "title": "Programming by predicates: a formal model for interactive synthesis",
+        "source": "Acta Informatica"
+    },
+    "16": {
+        "title": "Automatic generation of high-performance quantized machine learning kernels",
+        "source": "CGO 2020 - Proceedings of the 18th ACM/IEEE International Symposium on Code Generation and Optimization"
+    },
+    "17": {
+        "title": "Combining model finder and genetic programming into a general purpose automatic program synthesizer",
+        "source": "Information Processing Letters"
+    },
+    "18": {
+        "title": "DeeperCoder: Code Generation Using Machine Learning",
+        "source": "2020 10th Annual Computing and Communication Workshop and Conference, CCWC 2020"
+    },
+    "19": {
+        "title": "Program synthesis in a continuous space using grammars and variational autoencoders",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "20": {
+        "title": "On the possibility of parallel programs synthesis from algorithm graph specification",
+        "source": "CEUR Workshop Proceedings"
+    },
+    "21": {
+        "title": "Program Synthesis Using Deduction-Guided Reinforcement Learning",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "22": {
+        "title": "The Trace Modality",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "23": {
+        "title": "Reconfigurable monitoring for telecommunication networks",
+        "source": "PeerJ Computer Science"
+    },
+    "24": {
+        "title": "SemRegex: A semantics-based approach for generating regular expressions from natural language specifications",
+        "source": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, EMNLP 2018"
+    },
+    "25": {
+        "title": "Provenance-guided synthesis of datalog programs",
+        "source": "Proceedings of the ACM on Programming Languages"
+    },
+    "26": {
+        "title": "18th International Conference on Software Engineering and Formal Methods, SEFM 2020",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "27": {
+        "title": "32nd International Conference on Computer Aided Verification, CAV 2020",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "28": {
+        "title": "23rd European Conference on Genetic Programming, EuroGP 2020, held as part of EvoStar 2020",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "29": {
+        "title": "Achieving Abstract Machine Reachability with Learning-Based Model Fulfilment",
+        "source": "Proceedings - Asia-Pacific Software Engineering Conference, APSEC"
+    },
+    "30": {
+        "title": "Towards Answering “Am I on the Right Track?” Automatically using Program Synthesis",
+        "source": "SPLASH-E 2019 - Proceedings of the 2019 ACM SIGPLAN Symposium on SPLASH-E, co-located with SPLASH 2019"
+    },
+    "31": {
+        "title": "Bodystorming human-robot interactions",
+        "source": "UIST 2019 - Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology"
+    },
+    "32": {
+        "title": "Watch, reason and code: Learning to represent videos using program",
+        "source": "MM 2019 - Proceedings of the 27th ACM International Conference on Multimedia"
+    },
+    "33": {
+        "title": "Maximal multi-layer specification synthesis",
+        "source": "ESEC/FSE 2019 - Proceedings of the 2019 27th ACM Joint Meeting European Software Engineering Conference and Symposium on the Foundations of Software Engineering"
+    },
+    "34": {
+        "title": "Synthesizing Robot Programs with Interactive Tutor Mode",
+        "source": "International Journal of Automation and Computing"
+    },
+    "35": {
+        "title": "From typestate verification to interpretable deep models (invited talk abstract)",
+        "source": "ISSTA 2019 - Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis"
+    },
+    "36": {
+        "title": "Synthesis and machine learning for heterogeneous extraction",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "37": {
+        "title": "XSTRESSOR: Automatic generation of large-scale worst-case test inputs by inferring path conditions",
+        "source": "Proceedings - 2019 IEEE 12th International Conference on Software Testing, Verification and Validation, ICST 2019"
+    },
+    "38": {
+        "title": "Learning neurosymbolic generative models via program synthesis",
+        "source": "36th International Conference on Machine Learning, ICML 2019"
+    },
+    "39": {
+        "title": "Write, execute, assess: Program synthesis with a REPL",
+        "source": "Advances in Neural Information Processing Systems"
+    },
+    "40": {
+        "title": "Design Model Repair with Formal Verification",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "41": {
+        "title": "Learning neurosymbolic generative models via program synthesis",
+        "source": "Deep Reinforcement Learning Meets Structured Prediction, DeepRLStructPred@ICLR 2019 Workshop"
+    },
+    "42": {
+        "title": "Program synthesis with equivalence reduction",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "43": {
+        "title": "Formal methods for mobile Robots",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "44": {
+        "title": "Novel positional encodings to enable tree-based transformers",
+        "source": "Advances in Neural Information Processing Systems"
+    },
+    "45": {
+        "title": "Explaining black box models with inductive synthesis",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "46": {
+        "title": "BENEVOL 2019 - Proceedings of the 18th Belgium-Netherlands Software Evolution Workshop",
+        "source": "CEUR Workshop Proceedings"
+    },
+    "47": {
+        "title": "Deep Reinforcement Learning Meets Structured Prediction, DeepRLStructPred@ICLR 2019 Workshop",
+        "source": "Deep Reinforcement Learning Meets Structured Prediction, DeepRLStructPred@ICLR 2019 Workshop"
+    },
+    "48": {
+        "title": "Neural program planner for structured predictions",
+        "source": "Deep Reinforcement Learning Meets Structured Prediction, DeepRLStructPred@ICLR 2019 Workshop"
+    },
+    "49": {
+        "title": "Learning Guided Enumerative Synthesis for Superoptimization",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "50": {
+        "title": "Axiomatic Characterization of Trace Reachability for Concurrent Objects",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "51": {
+        "title": "Ilang: a modeling and verification platform for SoCs using instruction-level abstractions",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "52": {
+        "title": "20th International Conference on Verification, Model Checking, and Abstract Interpretation, VMCAI 2019",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "53": {
+        "title": "Automatic addition of fault-tolerance in presence of unchangeable environment actions",
+        "source": "Future Internet"
+    },
+    "54": {
+        "title": "Synthesizing datalog programs using numerical relaxation",
+        "source": "IJCAI International Joint Conference on Artificial Intelligence"
+    },
+    "55": {
+        "title": "22nd European Conference on Genetic Programming, EuroGP 2019, held as part of EvoStar 2019",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "56": {
+        "title": "Syntactic generation of practice novice programs in python",
+        "source": "Communications in Computer and Information Science"
+    },
+    "57": {
+        "title": "CheckMate: Automated synthesis of hardware exploits and security litmus tests",
+        "source": "Proceedings of the Annual International Symposium on Microarchitecture, MICRO"
+    },
+    "58": {
+        "title": "InverseCSG: Automatic conversion of 3D models to CSG trees",
+        "source": "SIGGRAPH Asia 2018 Technical Papers, SIGGRAPH Asia 2018"
+    },
+    "59": {
+        "title": "InverseCSG: Automatic conversion of 3d models to csg trees",
+        "source": "ACM Transactions on Graphics"
+    },
+    "60": {
+        "title": "Singularity: Pattern fuzzing forworst case complexity",
+        "source": "ESEC/FSE 2018 - Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering"
+    },
+    "61": {
+        "title": "Symbolic execution with existential second-order constraints",
+        "source": "ESEC/FSE 2018 - Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering"
+    },
+    "62": {
+        "title": "Bug synthesis: Challenging bug-finding tools with deep faults",
+        "source": "ESEC/FSE 2018 - Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering"
+    },
+    "63": {
+        "title": "Overfitting in semantics-based automated program repair",
+        "source": "Empirical Software Engineering"
+    },
+    "64": {
+        "title": "A documentation-based constraint generation method for Java APIs",
+        "source": "ACM International Conference Proceeding Series"
+    },
+    "65": {
+        "title": "Automated model repair for alloy",
+        "source": "ASE 2018 - Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering"
+    },
+    "66": {
+        "title": "Android testing via synthetic symbolic execution",
+        "source": "ASE 2018 - Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering"
+    },
+    "67": {
+        "title": "Quantifying bounds in strategy logic",
+        "source": "Leibniz International Proceedings in Informatics, LIPIcs"
+    },
+    "68": {
+        "title": "Synthesizing optimally resilient controllers",
+        "source": "Leibniz International Proceedings in Informatics, LIPIcs"
+    },
+    "69": {
+        "title": "Accelerating search-based program synthesis using learned probabilistic models",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "70": {
+        "title": "Accelerating search-based program synthesis using learned probabilistic models",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "71": {
+        "title": "The semantics of transactions and weak memory in x86, Power, ARM, and C++",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "72": {
+        "title": "The semantics of transactions and weak memory in x86, power, ARM, and C++",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "73": {
+        "title": "Finding Substitutable Binary Code for Reverse Engineering by Synthesizing Adapters",
+        "source": "Proceedings - 2018 IEEE 11th International Conference on Software Testing, Verification and Validation, ICST 2018"
+    },
+    "74": {
+        "title": "Program synthesis for program analysis",
+        "source": "ACM Transactions on Programming Languages and Systems"
+    },
+    "75": {
+        "title": "Synthesis of distributed algorithms with parameterized threshold guards",
+        "source": "Leibniz International Proceedings in Informatics, LIPIcs"
+    },
+    "76": {
+        "title": "Synthesizing an instruction selection rule library from semantic specifications",
+        "source": "CGO 2018 - Proceedings of the 2018 International Symposium on Code Generation and Optimization"
+    },
+    "77": {
+        "title": "Learning to infer graphics programs from hand-drawn images",
+        "source": "Advances in Neural Information Processing Systems"
+    },
+    "78": {
+        "title": "Neural program synthesis from diverse demonstration videos",
+        "source": "35th International Conference on Machine Learning, ICML 2018"
+    },
+    "79": {
+        "title": "Neural guided constraint logic programming for program synthesis",
+        "source": "Advances in Neural Information Processing Systems"
+    },
+    "80": {
+        "title": "Leveraging grammar and reinforcement learning for neural program synthesis",
+        "source": "6th International Conference on Learning Representations, ICLR 2018 - Conference Track Proceedings"
+    },
+    "81": {
+        "title": "Leveraging constraint logic programming for neural guided program synthesis",
+        "source": "6th International Conference on Learning Representations, ICLR 2018 - Workshop Track Proceedings"
+    },
+    "82": {
+        "title": "CEUR Workshop Proceedings",
+        "source": "CEUR Workshop Proceedings"
+    },
+    "83": {
+        "title": "Towards specification-directed program repair",
+        "source": "6th International Conference on Learning Representations, ICLR 2018 - Workshop Track Proceedings"
+    },
+    "84": {
+        "title": "Neural program search: Solving programming tasks from description and examples",
+        "source": "6th International Conference on Learning Representations, ICLR 2018 - Workshop Track Proceedings"
+    },
+    "85": {
+        "title": "Validity-guided synthesis of reactive systems from assume-guarantee contracts",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "86": {
+        "title": "Abstraction-based interaction model for synthesis",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "87": {
+        "title": "27th International Symposium on Logic-Based Program Synthesis and Transformation, LOPSTR 2017",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "88": {
+        "title": "Synthesizing entity matching rules by examples",
+        "source": "Proceedings of the VLDB Endowment"
+    },
+    "89": {
+        "title": "Glass-box program synthesis: A machine learning approach",
+        "source": "32nd AAAI Conference on Artificial Intelligence, AAAI 2018"
+    },
+    "90": {
+        "title": "Towards synthesizing complex programs from input-output examples",
+        "source": "6th International Conference on Learning Representations, ICLR 2018 - Conference Track Proceedings"
+    },
+    "91": {
+        "title": "Neural-guided deductive search for real-time program synthesis from examples",
+        "source": "6th International Conference on Learning Representations, ICLR 2018 - Conference Track Proceedings"
+    },
+    "92": {
+        "title": "30th International Conference on Computer Aided Verification, CAV 2018 Held as Part of the Federated Logic Conference, FloC 2018",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "93": {
+        "title": "30th International Conference on Computer Aided Verification, CAV 2018 Held as Part of the Federated Logic Conference, FloC 2018",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "94": {
+        "title": "Dynamic neural program embeddings for program repair",
+        "source": "6th International Conference on Learning Representations, ICLR 2018 - Conference Track Proceedings"
+    },
+    "95": {
+        "title": "NLCI: a natural language command interpreter",
+        "source": "Automated Software Engineering"
+    },
+    "96": {
+        "title": "DSSynth: An automated digital controller synthesis tool for physical plants",
+        "source": "ASE 2017 - Proceedings of the 32nd IEEE/ACM International Conference on Automated Software Engineering"
+    },
+    "97": {
+        "title": "Domains for higher-order games",
+        "source": "Leibniz International Proceedings in Informatics, LIPIcs"
+    },
+    "98": {
+        "title": "S3: Syntax- and semantic-guided repair synthesis via programming by examples",
+        "source": "Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering"
+    },
+    "99": {
+        "title": "ACM International Conference Proceeding Series",
+        "source": "ACM International Conference Proceeding Series"
+    },
+    "100": {
+        "title": "Program synthesis meets deep learning for decoding regulatory networks",
+        "source": "Current Opinion in Systems Biology"
+    },
+    "101": {
+        "title": "A hot method for synthesising cool controllers",
+        "source": "SPIN 2017 - Proceedings of the 24th ACM SIGSOFT International SPIN Symposium on Model Checking of Software"
+    },
+    "102": {
+        "title": "EdSketch: Execution-driven sketching for Java",
+        "source": "SPIN 2017 - Proceedings of the 24th ACM SIGSOFT International SPIN Symposium on Model Checking of Software"
+    },
+    "103": {
+        "title": "JFIX: Semantics-based repair of Java programs via symbolic PathFinder",
+        "source": "ISSTA 2017 - Proceedings of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis"
+    },
+    "104": {
+        "title": "Discovery of search objectives in continuous domains",
+        "source": "GECCO 2017 - Proceedings of the 2017 Genetic and Evolutionary Computation Conference"
+    },
+    "105": {
+        "title": "Scalable genetic programming by gene-pool optimal mixing and input-space entropy-based building-block learning",
+        "source": "GECCO 2017 - Proceedings of the 2017 Genetic and Evolutionary Computation Conference"
+    },
+    "106": {
+        "title": "Automatic program inversion using symbolic transducers",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "107": {
+        "title": "Automatic program inversion using symbolic transducers",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "108": {
+        "title": "Synthesizing memory models from framework sketches and Litmus tests",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "109": {
+        "title": "Synthesizing memory models from framework sketches and litmus tests",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "110": {
+        "title": "Teaching Digital System Test",
+        "source": "2017 27th EAEEIE Annual Conference, EAEEIE 2017"
+    },
+    "111": {
+        "title": "Generating concise entity matching rules",
+        "source": "Proceedings of the ACM SIGMOD International Conference on Management of Data"
+    },
+    "112": {
+        "title": "Domain-specific symbolic compilation",
+        "source": "Leibniz International Proceedings in Informatics, LIPIcs"
+    },
+    "113": {
+        "title": "Program synthesis for configuring collaborative solutions in feature models",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "114": {
+        "title": "RobustFill: Neural program learning under Noisy I/O",
+        "source": "34th International Conference on Machine Learning, ICML 2017"
+    },
+    "115": {
+        "title": "Maximum model counting",
+        "source": "31st AAAI Conference on Artificial Intelligence, AAAI 2017"
+    },
+    "116": {
+        "title": "Program synthesis for character level language modeling",
+        "source": "5th International Conference on Learning Representations, ICLR 2017 - Conference Track Proceedings"
+    },
+    "117": {
+        "title": "Component-based synthesis for complex APIs",
+        "source": "Conference Record of the Annual ACM Symposium on Principles of Programming Languages"
+    },
+    "118": {
+        "title": "26th International Symposium on Logic-Based Program Synthesis and Transformation, LOPSTR 2016",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "119": {
+        "title": "Neuro-symbolic program synthesis",
+        "source": "5th International Conference on Learning Representations, ICLR 2017 - Conference Track Proceedings"
+    },
+    "120": {
+        "title": "Confederated International Workshops On the Move to Meaningful Internet Systems, OTM 2016 held as part of EI2N, FBM, ICSP, Meta4eS, and OTMA 2016",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "121": {
+        "title": "Automatically comparing memory consistency models",
+        "source": "Conference Record of the Annual ACM Symposium on Principles of Programming Languages"
+    },
+    "122": {
+        "title": "15th International Conference on Automated Technology for Verification and Analysis, ATVA 2017",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "123": {
+        "title": "29th International Conference on Computer Aided Verification, CAV 2017",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "124": {
+        "title": "23rd International Conference on Tools and Algorithms for the Construction and Analysis of Systems, TACAS 2017 held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2017",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "125": {
+        "title": "Synchronization synthesis for network programs",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "126": {
+        "title": "Program synthesis by model finding",
+        "source": "Information Processing Letters"
+    },
+    "127": {
+        "title": "FIDEX: filtering spreadsheet data using examples",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "128": {
+        "title": "FIDEX: Filtering spreadsheet data using examples",
+        "source": "Proceedings of the Conference on Object-Oriented Programming Systems, Languages, and Applications, OOPSLA"
+    },
+    "129": {
+        "title": "Towards efficient and effective automatic program repair",
+        "source": "ASE 2016 - Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering"
+    },
+    "130": {
+        "title": "Modeling of the basic educational program structure",
+        "source": "Recent Patents on Computer Science"
+    },
+    "131": {
+        "title": "On hardware synthesis and implementation of PLC programs in FPGAs",
+        "source": "Microprocessors and Microsystems"
+    },
+    "132": {
+        "title": "Synthesizing framework models for symbolic execution",
+        "source": "Proceedings - International Conference on Software Engineering"
+    },
+    "133": {
+        "title": "LED: Tool for synthesizing web element locators",
+        "source": "Proceedings - 2015 30th IEEE/ACM International Conference on Automated Software Engineering, ASE 2015"
+    },
+    "134": {
+        "title": "Synthesizing web element locators",
+        "source": "Proceedings - 2015 30th IEEE/ACM International Conference on Automated Software Engineering, ASE 2015"
+    },
+    "135": {
+        "title": "Automatic synthesis of code using genetic programming",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "136": {
+        "title": "Latent attention for if-then program synthesis",
+        "source": "Advances in Neural Information Processing Systems"
+    },
+    "137": {
+        "title": "A framework for parameterized design of rule systems applied to algebra",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "138": {
+        "title": "Program generation using simulated annealing and model checking",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "139": {
+        "title": "Recursive games for compositional program synthesis",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "140": {
+        "title": "Synthesis of domain specific CNF encoders for BIT-vector solvers",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "141": {
+        "title": "13th International Colloquium on Theoretical Aspects of Computing,ICTAC 2016",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "142": {
+        "title": "Linicrypt: A model for practical cryptography",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "143": {
+        "title": "Synthesis of strategies using the hoare logic of angelic and demonic nondeterminism",
+        "source": "Logical Methods in Computer Science"
+    },
+    "144": {
+        "title": "Combinatory synthesis of classes using feature grammars",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "145": {
+        "title": "8th International Symposium on Search Based Software Engineering, SSBSE 2016",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "146": {
+        "title": "Mimic: Computing models for opaque code",
+        "source": "2015 10th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering, ESEC/FSE 2015 - Proceedings"
+    },
+    "147": {
+        "title": "Using model checking techniques for evaluating the effectiveness of evolutionary computing in synthesis of distributed fault-tolerant programs",
+        "source": "GECCO 2015 - Proceedings of the 2015 Genetic and Evolutionary Computation Conference"
+    },
+    "148": {
+        "title": "The complexity of automated addition of fault-tolerance without explicit legitimate states",
+        "source": "Distributed Computing"
+    },
+    "149": {
+        "title": "Active knowledge, LuNA and literacy for oncoming centuries",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "150": {
+        "title": "Dimensionality reduction via program induction",
+        "source": "AAAI Spring Symposium - Technical Report"
+    },
+    "151": {
+        "title": "Programming with “big code”",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "152": {
+        "title": "Drill and join: A method for exact inductive program synthesis",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "153": {
+        "title": "25th International Symposium on Logic-Based Program Synthesis and Transformation, LOPSTR 2015",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "154": {
+        "title": "27th International Conference on Computer Aided Verification, CAV 2015",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "155": {
+        "title": "20th International Conference on Logic for Programming, Artificial Intelligence, and Reasoning, LPAR 2015",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "156": {
+        "title": "Tsmart-GalsBlock: A toolkit for modeling, validation, and synthesis of multi-clocked embedded systems",
+        "source": "Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering"
+    },
+    "157": {
+        "title": "Literacy for oncoming centuries",
+        "source": "Frontiers in Artificial Intelligence and Applications"
+    },
+    "158": {
+        "title": "Smart space automatic services composition based on program synthesis and QoS model",
+        "source": "Journal of Computational Information Systems"
+    },
+    "159": {
+        "title": "23rd International Symposium on Logic-Based Program Synthesis and Transformation, LOPSTR 2013",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "160": {
+        "title": "Smten with satisfiability-based search",
+        "source": "Proceedings of the Conference on Object-Oriented Programming Systems, Languages, and Applications, OOPSLA"
+    },
+    "161": {
+        "title": "Applications of program synthesis to end-user programming and intelligent tutoring systems?",
+        "source": "GECCO 2014 - Companion Publication of the 2014 Genetic and Evolutionary Computation Conference"
+    },
+    "162": {
+        "title": "Synthesis for polynomial lasso programs",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "163": {
+        "title": "Concurrency Theory - 25th International Conference, CONCUR 2014, Proceedings",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "164": {
+        "title": "Chlorophyll: Synthesis-aided compiler for low-power spatial architectures",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "165": {
+        "title": "Chlorophyll: Synthesis-aided compiler for low-power spatial architectures",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "166": {
+        "title": "FlashExtract: A framework for data extraction by examples",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "167": {
+        "title": "FlashExtract: A framework for data extraction by examples",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "168": {
+        "title": "Deterministic-rule programs on specialization systems",
+        "source": "International Journal of Innovative Computing, Information and Control"
+    },
+    "169": {
+        "title": "Automated analysis and synthesis of block-cipher modes of operation",
+        "source": "Proceedings of the Computer Security Foundations Workshop"
+    },
+    "170": {
+        "title": "NLyze: Interactive programming by natural language for spreadsheet data analysis and manipulation",
+        "source": "Proceedings of the ACM SIGMOD International Conference on Management of Data"
+    },
+    "171": {
+        "title": "Data-parallel computing meets STRIPS",
+        "source": "Proceedings of the 27th AAAI Conference on Artificial Intelligence, AAAI 2013"
+    },
+    "172": {
+        "title": "A first view of exedra: A domain-specific language for large graph analytics workflows",
+        "source": "WWW 2013 Companion - Proceedings of the 22nd International Conference on World Wide Web"
+    },
+    "173": {
+        "title": "Logic-Based Program Synthesis and Transformation - 22nd International Symposium, LOPSTR 2012, Revised Selected Papers",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "174": {
+        "title": "Automated feedback generation for introductory programming assignments",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "175": {
+        "title": "TRANSIT: Specifying protocols with concolic snippets",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "176": {
+        "title": "Automated feedback generation for introductory programming assignments",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "177": {
+        "title": "TRANSIT: Specifying protocols with concolic snippets",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "178": {
+        "title": "Interoperable domain-specific languages families for code generation",
+        "source": "Software - Practice and Experience"
+    },
+    "179": {
+        "title": "Synthesis of biological models from mutation experiments",
+        "source": "Conference Record of the Annual ACM Symposium on Principles of Programming Languages"
+    },
+    "180": {
+        "title": "Synthesis of biological models from mutation experiments",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "181": {
+        "title": "Using program synthesis for social recommendations",
+        "source": "ACM International Conference Proceeding Series"
+    },
+    "182": {
+        "title": "Functional validation of AADL models via model transformation to SystemC with ATL",
+        "source": "MODELS 2012 Innsbruck - Proceedings of the 5th International Workshop on Model Based Architecting and Construction of Embedded Systems, ACES-MB 2012"
+    },
+    "183": {
+        "title": "Modeling software execution environment",
+        "source": "Proceedings - Working Conference on Reverse Engineering, WCRE"
+    },
+    "184": {
+        "title": "Logic-Based Program Synthesis and Transformation - 21st International Symposium, LOPSTR 2011, Revised Selected Papers",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "185": {
+        "title": "Two local strategy iteration schemes for parity game solving",
+        "source": "International Journal of Foundations of Computer Science"
+    },
+    "186": {
+        "title": "Symbolic synthesis of masking fault-tolerant distributed programs",
+        "source": "Distributed Computing"
+    },
+    "187": {
+        "title": "Two approaches to programs synthesis or implementation of partially defined theories",
+        "source": "Frontiers in Artificial Intelligence and Applications"
+    },
+    "188": {
+        "title": "RESTful web service composition: Extracting a process model from Linear Logic theorem proving",
+        "source": "Proceedings of the 2011 7th International Conference on Next Generation Web Services Practices, NWeSP 2011"
+    },
+    "189": {
+        "title": "Welcome message from the chairs",
+        "source": "2011 26th IEEE/ACM International Conference on Automated Software Engineering, ASE 2011, Proceedings"
+    },
+    "190": {
+        "title": "Synthesis of logic programs from object-oriented formal specifications",
+        "source": "Leibniz International Proceedings in Informatics, LIPIcs"
+    },
+    "191": {
+        "title": "Code-based automated program fixing",
+        "source": "2011 26th IEEE/ACM International Conference on Automated Software Engineering, ASE 2011, Proceedings"
+    },
+    "192": {
+        "title": "From boolean to quantitative synthesis",
+        "source": "Embedded Systems Week 2011, ESWEEK 2011 - Proceedings of the 9th ACM International Conference on Embedded Software, EMSOFT'11"
+    },
+    "193": {
+        "title": "A practical use of model checking for synthesis: Generating a dam controller for flood management",
+        "source": "Software - Practice and Experience"
+    },
+    "194": {
+        "title": "Program synthesis in administration of higher-order permissions",
+        "source": "Proceedings of ACM Symposium on Access Control Models and Technologies, SACMAT"
+    },
+    "195": {
+        "title": "SACMAT'11 - Proceedings of the 16th ACM Symposium on Access Control Models and Technologies",
+        "source": "Proceedings of ACM Symposium on Access Control Models and Technologies, SACMAT"
+    },
+    "196": {
+        "title": "Automating string processing in spreadsheets using input-output examples",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "197": {
+        "title": "Automating string processing in spreadsheets using input-output examples",
+        "source": "Conference Record of the Annual ACM Symposium on Principles of Programming Languages"
+    },
+    "198": {
+        "title": "Complexity issues in automated model revision without explicit legitimate state",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "199": {
+        "title": "Specialization of recursive predicates from positive examples only",
+        "source": "Journal of Computer Science"
+    },
+    "200": {
+        "title": "An algebraic foundation for automatic feature-based program synthesis",
+        "source": "Science of Computer Programming"
+    },
+    "201": {
+        "title": "An integrated framework for the diagnosis and correction of rule-based programs",
+        "source": "Theoretical Computer Science"
+    },
+    "202": {
+        "title": "Probabilistic developmental program evolution",
+        "source": "Proceedings of the ACM Symposium on Applied Computing"
+    },
+    "203": {
+        "title": "Local strategy improvement for parity game solving",
+        "source": "Electronic Proceedings in Theoretical Computer Science, EPTCS"
+    },
+    "204": {
+        "title": "Automated composition of Web services via planning in asynchronous domains",
+        "source": "Artificial Intelligence"
+    },
+    "205": {
+        "title": "Program transformation for development, verification, and synthesis of software",
+        "source": "CEUR Workshop Proceedings"
+    },
+    "206": {
+        "title": "Static Analysis - 16th International Symposium, SAS 2009, Proceedings",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "207": {
+        "title": "An integrated framework for Web services orchestration",
+        "source": "International Journal of Web Services Research"
+    },
+    "208": {
+        "title": "Resource prioritization of code optimization techniques for program synthesis of wireless sensor network applications",
+        "source": "Journal of Systems and Software"
+    },
+    "209": {
+        "title": "Model checking driven heuristic search for correct programs",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "210": {
+        "title": "Model-driven prototyping based requirements elicitation",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "211": {
+        "title": "TopLog: ILP using a logic program declarative bias",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "212": {
+        "title": "On the modularity of feature interactions",
+        "source": "GPCE'08: Proceedings of the ACM SIGPLAN 7th International Conference on Generative Programming and Component Engineering"
+    },
+    "213": {
+        "title": "Alchemy: Transmuting base alloy specifications into implementations",
+        "source": "Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering"
+    },
+    "214": {
+        "title": "The objects and arrows of computational design",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "215": {
+        "title": "Generative metaprogramming",
+        "source": "GPCE'07 - Proceedings of the Sixth International Conference on Generative Programming and Component Engineering"
+    },
+    "216": {
+        "title": "Compiler Construction - 16th International Conference, CC 2007. Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2007, Proceedings",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "217": {
+        "title": "Meta-modeling approach of building CRM system using GME-MOF",
+        "source": "2007 International Conference on Convergence Information Technology, ICCIT 2007"
+    },
+    "218": {
+        "title": "Model-based design of embedded systems",
+        "source": "Proceedings - MSE 2007: 2007 IEEE International Conference on Microelectronic Systems Education: Educating Systems Designers for the Global Economy and a Secure World"
+    },
+    "219": {
+        "title": "From implementation to theory in product synthesis",
+        "source": "Conference Record of the Annual ACM Symposium on Principles of Programming Languages"
+    },
+    "220": {
+        "title": "Predictable real-time software synthesis",
+        "source": "Real-Time Systems"
+    },
+    "221": {
+        "title": "Program refactoring, program synthesis, and model-driven development",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "222": {
+        "title": "Distributed synthesis of fault-tolerant programs in the high atomicity model",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "223": {
+        "title": "Preconditions for structural synthesis of programs",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "224": {
+        "title": "Program generation in the equivalent transformation computation model using the squeeze method",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "225": {
+        "title": "From implementation to theory in product synthesis",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "226": {
+        "title": "From logic specification to γ-calculus: A method for designing multiagent systems",
+        "source": "International Journal of Intelligent Information Technologies"
+    },
+    "227": {
+        "title": "Feature modularity in software product lines",
+        "source": "Proceedings - 10th International Software Product Line Conference, SPLC 2006"
+    },
+    "228": {
+        "title": "A modeling paradigm for integrated modular avionics design",
+        "source": "Proceedings - 32nd Euromicro Conference on Software Engineering and Advanced Applications, SEAA"
+    },
+    "229": {
+        "title": "A look at generation of user interface behavior using automatic programming",
+        "source": "WSEAS Transactions on Information Science and Applications"
+    },
+    "230": {
+        "title": "Componentwise program construction: Requirements and solutions",
+        "source": "WSEAS Transactions on Information Science and Applications"
+    },
+    "231": {
+        "title": "Syneducational transactions among students, parents, educators and policy makers: The transdisciplinary program SYNTHESIS",
+        "source": "Interactive Learning Environments"
+    },
+    "232": {
+        "title": "Towards automated integration of guess and check programs in answer set programming: A meta-interpreter and applications",
+        "source": "Theory and Practice of Logic Programming"
+    },
+    "233": {
+        "title": "On Succinctness of Hierarchical State Diagrams in Absence of Message Passing",
+        "source": "Electronic Notes in Theoretical Computer Science"
+    },
+    "234": {
+        "title": "The complexity of live sequence charts",
+        "source": "Lecture Notes in Computer Science"
+    },
+    "235": {
+        "title": "A method for compiling and executing expressive assertions",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "236": {
+        "title": "Feature-oriented programming and the AHEAD tool suite",
+        "source": "Proceedings - International Conference on Software Engineering"
+    },
+    "237": {
+        "title": "Automated higher-order complexity analysis",
+        "source": "Theoretical Computer Science"
+    },
+    "238": {
+        "title": "Scaling step-wise refinement",
+        "source": "IEEE Transactions on Software Engineering"
+    },
+    "239": {
+        "title": "A science of software design",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "240": {
+        "title": "Automated synthesis of data analysis programs: Learning in logic",
+        "source": "Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)"
+    },
+    "241": {
+        "title": "Flattening statecharts without explosions",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)"
+    },
+    "242": {
+        "title": "Flattening statecharts without explosions",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "243": {
+        "title": "Synthesis of Fault-Tolerant Concurrent Programs",
+        "source": "ACM Transactions on Programming Languages and Systems"
+    },
+    "244": {
+        "title": "Predicate synthesis from inductive proof attempt of faulty conjectures",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "245": {
+        "title": "Automated synthesis of multitolerance",
+        "source": "Proceedings of the International Conference on Dependable Systems and Networks"
+    },
+    "246": {
+        "title": "Refinements and multi-dimensional separation of concerns",
+        "source": "Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering"
+    },
+    "247": {
+        "title": "On efficient program synthesis from statecharts",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES)"
+    },
+    "248": {
+        "title": "AutoBayes: A system for generating data analysis programs from statistical models",
+        "source": "Journal of Functional Programming"
+    },
+    "249": {
+        "title": "Symbolic performance modeling of parallel systems",
+        "source": "IEEE Transactions on Parallel and Distributed Systems"
+    },
+    "250": {
+        "title": "Program synthesis based on the equivalent transformation computation model",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "251": {
+        "title": "On efficient program synthesis from statecharts",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "252": {
+        "title": "Automatic derivation of statistical algorithms: The EM family and beyond",
+        "source": "Advances in Neural Information Processing Systems"
+    },
+    "253": {
+        "title": "Refinements and Multi-Dimensional Separation of Concerns",
+        "source": "Proceedings of the Joint European Software Engineering Conference (ESEC) and SIGSOFT Symposium on the Foundations of Software Engineering (FSE-11)"
+    },
+    "254": {
+        "title": "Constructing recursions by similarity",
+        "source": "Journal of the Brazilian Computer Society"
+    },
+    "255": {
+        "title": "12th International Workshop on Logic Based Program Synthesis and Transformation, LOPSTR 2002",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "256": {
+        "title": "Counterexample-guided control",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "257": {
+        "title": "Logic Based Program Synthesis and Transformation - 11th International Workshop, LOPSTR 2001, Selected Papers",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "258": {
+        "title": "Software construction and analysis tools for future space missions",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "259": {
+        "title": "Automata-theoretic decision of timed games",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "260": {
+        "title": "11th International Workshop on Logic Based Program Synthesis and Transformation, LOPSTR 2001",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "261": {
+        "title": "Program Derivation = Rules + Strategies",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "262": {
+        "title": "Logic Based Program Synthesis and Transformation - 10th International Workshop, LOPSTR 2000, Selected Papers",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "263": {
+        "title": "Missing proofs found",
+        "source": "Journal of Automated Reasoning"
+    },
+    "264": {
+        "title": "SciFINANCE: A program synthesis tool for financial modeling",
+        "source": "AI Magazine"
+    },
+    "265": {
+        "title": "A theoretical foundation of program synthesis by equivalent transformation",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "266": {
+        "title": "Business process modeling based on the ontology and first-order logic",
+        "source": "ICEIS 2001 - Proceedings of the 3rd International Conference on Enterprise Information Systems"
+    },
+    "267": {
+        "title": "4th International Andrei Ershov Memorial Conference on Perspectives of System Informatics, PSI 2001",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "268": {
+        "title": "Modeling agent negotiation",
+        "source": "Proceedings of the IEEE International Conference on Systems, Man and Cybernetics"
+    },
+    "269": {
+        "title": "Computational Logic, CL 2000 - First International Conference, Proceedings",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "270": {
+        "title": "Towards a standard for model specification and storage",
+        "source": "Proceedings of the IEEE International Conference on Systems, Man and Cybernetics"
+    },
+    "271": {
+        "title": "10th International Workshop on Logic Based Program Synthesis and Transformation, LOPSTR 2000",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "272": {
+        "title": "Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)",
+        "source": "Lecture Notes in Artificial Intelligence (Subseries of Lecture Notes in Computer Science)"
+    },
+    "273": {
+        "title": "9th International Workshop on Logic-Based Program Synthesis and Transformation, LOPSTR 1999",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "274": {
+        "title": "4th International Symposium on Abstraction, Reformulation, and Approximation, SARA 2000",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "275": {
+        "title": "A model-based approach to self-adaptive software",
+        "source": "IEEE Intelligent Systems and Their Applications"
+    },
+    "276": {
+        "title": "Planning principles for problem solving in automatic program synthesis systems",
+        "source": "Programming and Computer Software"
+    },
+    "277": {
+        "title": "Metaprogrammable toolkit for model-integrated computing",
+        "source": "Proceedings - ECBS 1999, IEEE Conference and Workshop on Engineering of Computer-Based Systems"
+    },
+    "278": {
+        "title": "Applications of structural synthesis of programs",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "279": {
+        "title": "Calculating encoding and decoding functions for prefix codes",
+        "source": "SIGPLAN Notices (ACM Special Interest Group on Programming Languages)"
+    },
+    "280": {
+        "title": "Metamodeling-rapid design and evolution of domain-specific modeling environments",
+        "source": "Proceedings - ECBS 1999, IEEE Conference and Workshop on Engineering of Computer-Based Systems"
+    },
+    "281": {
+        "title": "Microprocessor power estimation using profile-driven program synthesis",
+        "source": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+    },
+    "282": {
+        "title": "Nuts: A distributed object-oriented platform with high level communication functions",
+        "source": "Computers and Artificial Intelligence"
+    },
+    "283": {
+        "title": "Automated Synthesis of Recursive Programs from a ∀∃ Logical Specification",
+        "source": "Journal of Automated Reasoning"
+    },
+    "284": {
+        "title": "ALPS: A logic for program synthesis (motivated by fuzzy logic)",
+        "source": "1998 IEEE International Conference on Fuzzy Systems Proceedings - IEEE World Congress on Computational Intelligence"
+    },
+    "285": {
+        "title": "4th International Conference on Mathematics of Program Construction, MPC 1998",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "286": {
+        "title": "International Conference on Artificial Intelligence and Symbolic Computation, AISC 1998",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "287": {
+        "title": "Model-integrated programming",
+        "source": "Proceedings of the Hawaii International Conference on System Sciences"
+    },
+    "288": {
+        "title": "Model-integrated program synthesis environment for parallel/real-time image processing",
+        "source": "Proceedings of SPIE - The International Society for Optical Engineering"
+    },
+    "289": {
+        "title": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "source": "Proceedings of SPIE - The International Society for Optical Engineering"
+    },
+    "290": {
+        "title": "Searching for a Global Search Algorithm",
+        "source": "Automated Software Engineering"
+    },
+    "291": {
+        "title": "Specification and Animation of a Bank Transfer using KIDS/VDM",
+        "source": "Automated Software Engineering"
+    },
+    "292": {
+        "title": "Model-integrated program synthesis environment",
+        "source": "Proceedings - IEEE Symposium and Workshop on Engineering of Computer-Based Systems, ECBS 1996"
+    },
+    "293": {
+        "title": "Logic program synthesis by induction over horn clauses",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "294": {
+        "title": "Strategy construction in infinite games with streett and rabin chain winning conditions",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "295": {
+        "title": "Program synthesis in the presence of infinite number of inaccuracies",
+        "source": "Journal of Computer and System Sciences"
+    },
+    "296": {
+        "title": "MULTIGRAPH: an architecture for model-integrated computing",
+        "source": "Proceedings of the IEEE International Conference on Engineering of Complex Computer Systems, ICECCS"
+    },
+    "297": {
+        "title": "Analogical logic program synthesis from examples",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "298": {
+        "title": "A Configurable Visual Programming Environment: A tool for domain-specific programming",
+        "source": "Computer"
+    },
+    "299": {
+        "title": "Knowledge acquisition and integration on specification change- A method for systematic reuse",
+        "source": "Proceedings - 1995 Asia Pacific Software Engineering Conference, APSEC 1995"
+    },
+    "300": {
+        "title": "Case studies in the advanced placement computer science curriculum",
+        "source": "SIGCSE Bulletin (Association for Computing Machinery, Special Interest Group on Computer Science Education)"
+    },
+    "301": {
+        "title": "Proceedings of the 5th Generation Computer Systems Conference (FGCS '92)",
+        "source": "Theoretical Computer Science"
+    },
+    "302": {
+        "title": "Synthesis of polynomial and other curves with the Bezier technique",
+        "source": "Mechanism and Machine Theory"
+    },
+    "303": {
+        "title": "4th International Workshop on Logic Program Synthesis and Transformation, LOPSTR 1994 and Metaprogramming in Logic, META 1994",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "304": {
+        "title": "Program synthesis in the presence of infinite number of inaccuracies",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "305": {
+        "title": "Synthesis and analysis of conceptual graph approach to intelligent robotic assembly automation",
+        "source": "American Society of Mechanical Engineers, Dynamic Systems and Control Division (Publication) DSC"
+    },
+    "306": {
+        "title": "Robot programming system for assembly: Conceptual graph-based approach",
+        "source": "Journal of Intelligent &amp; Robotic Systems"
+    },
+    "307": {
+        "title": "Conceptual graph-based synthesis of robotic assembly operations",
+        "source": "Proceedings - IEEE International Conference on Robotics and Automation"
+    },
+    "308": {
+        "title": "Solutional schemes scheduling for dynamical problems on the basis of non-procedural knowledge organization",
+        "source": "Programmirovanie"
+    },
+    "309": {
+        "title": "Conceptual Graph-Based System For Assembly Program Synthesis",
+        "source": "Robotica"
+    },
+    "310": {
+        "title": "Tableau-based theorem proving and synthesis of λ-terms in the intuitionistic logic",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "311": {
+        "title": "Software synthesis shell SOFTEX/S",
+        "source": "Proceedings - KBSE 1992: 7th Knowledge-Based Software Engineering Conference"
+    },
+    "312": {
+        "title": "5th Workshop on Computer Science Logic, CSL 1991",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "313": {
+        "title": "Minimization of network discrete structures for complex technical systems diagnostics",
+        "source": "Avtomatika i Vychislitel'naya Tekhnika"
+    },
+    "314": {
+        "title": "C-Priz - a new generation software tool for small computers",
+        "source": "Knowledge-Based Systems"
+    },
+    "315": {
+        "title": "Knowledge-based programming environments",
+        "source": "Knowledge-Based Systems"
+    },
+    "316": {
+        "title": "Specifications reuse process modeling and case study-based evaluations",
+        "source": "Proceedings - International Computer Software and Applications Conference"
+    },
+    "317": {
+        "title": "Second French-Soviet Workshop on Methods of Compilation and Program Construction",
+        "source": "Theoretical Computer Science"
+    },
+    "318": {
+        "title": "The undeterministic manipulation of solid models for robot program synthesis",
+        "source": "Computers and Industrial Engineering"
+    },
+    "319": {
+        "title": "Scheduling on semantic solution tables",
+        "source": "Programming and computer software"
+    },
+    "320": {
+        "title": "Probabilistic Inductive Inference",
+        "source": "Journal of the ACM (JACM)"
+    },
+    "321": {
+        "title": "6th Conference on Logic Programming, 1987",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "322": {
+        "title": "CONCURRENT PROGRAM SYNTHESIS WITH REUSABLE COMPONENTS USING TEMPORAL LOGIC.",
+        "source": "Proceedings - IEEE Computer Society's International Computer Software &amp; Applications Conference"
+    },
+    "323": {
+        "title": "International Workshop on Analogical and Inductive Inference, AII 1986",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "324": {
+        "title": "Virtual instruments: Object-oriented program synthesis",
+        "source": "Proceedings of the Conference on Object-Oriented Programming Systems, Languages, and Applications, OOPSLA"
+    },
+    "325": {
+        "title": "Virtual Instruments: Object-Oriented Program Synthesis",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "326": {
+        "title": "Framework for a knowledge-based programming environment",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "327": {
+        "title": "SOLUTION IN LINEAR TIME OF ALGORITHMIC PROBLEMS ASSOCIATED WITH ACYCLIC PROGRAM SYNTHESIS.",
+        "source": "Programming and computer software"
+    },
+    "328": {
+        "title": "Communication and management support in system development environments",
+        "source": "Conference on Human Factors in Computing Systems - Proceedings"
+    },
+    "329": {
+        "title": "PLANNING PRINCIPLES FOR PROBLEM SOLVING IN AUTOMATIC PROGRAM SYNTHESIS SYSTEMS.",
+        "source": "Programming and Computer Software (English Translation of Programmirovanie)"
+    },
+    "330": {
+        "title": "5th International Symposium on Programming, 1982",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "331": {
+        "title": "Conceptual modeling of data base operations",
+        "source": "International Journal of Computer &amp; Information Sciences"
+    },
+    "332": {
+        "title": "5th International Conference on Automated Deduction, CADE 1980",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "333": {
+        "title": "International Conference on Mathematical Studies of Information Processing, 1978",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "334": {
+        "title": "7th Symposium on Mathematical Foundations of Computer Science, MFCS 1978",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "335": {
+        "title": "The PSI program model builder synthesis of very high-level programs",
+        "source": "Proceedings of the 1977 Symposium on Artificial Intelligence and Programming Languages 1977"
+    },
+    "336": {
+        "title": "The PSI Program Model Builder - synthesis of very high-level programs",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "337": {
+        "title": "International Symposium on Methods for the Implementation of Algorithmic Languages, 1975",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "338": {
+        "title": "Observations on the interaction between coding and efficiency knowledge in the PSI program synthesis system",
+        "source": "Proceedings - International Conference on Software Engineering"
+    },
+    "339": {
+        "title": "Data structures and graph grammars",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "340": {
+        "title": "5th Symposium on Mathematical Foundations of Computer Science, MFCS 1976",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    }
+}

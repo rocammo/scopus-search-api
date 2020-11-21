@@ -1,0 +1,790 @@
+{
+    "1": {
+        "title": "Genome-scale metabolic modelling predicts biomarkers and therapeutic targets for neuropsychiatric disorders",
+        "source": "Computers in Biology and Medicine"
+    },
+    "2": {
+        "title": "Cognification of program synthesis—a systematic feature-oriented analysis and future direction",
+        "source": "Computers"
+    },
+    "3": {
+        "title": "Grand challenges in model-driven engineering: an analysis of the state of the research",
+        "source": "Software and Systems Modeling"
+    },
+    "4": {
+        "title": "Antenna array synthesis for controlled side lobes and nulls using evolutionary modified differential evolution",
+        "source": "Journal of Advanced Research in Dynamical and Control Systems"
+    },
+    "5": {
+        "title": "Seamless development in Java of distributed real-time systems using actors",
+        "source": "International Journal of Simulation and Process Modelling"
+    },
+    "6": {
+        "title": "Towards automating the synthesis of chatbots for conversational model query",
+        "source": "Lecture Notes in Business Information Processing"
+    },
+    "7": {
+        "title": "Seed Model Synthesis for Testing Model-Based Mutation Operators",
+        "source": "Lecture Notes in Business Information Processing"
+    },
+    "8": {
+        "title": "Towards a formal specification of multi-paradigm modelling",
+        "source": "Proceedings - 2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion, MODELS-C 2019"
+    },
+    "9": {
+        "title": "Unequally spaced linear antenna array synthesis with minimum side lobe levels using modified differential evolution algorithm",
+        "source": "International Journal of Innovative Technology and Exploring Engineering"
+    },
+    "10": {
+        "title": "Model-based design automation of hardware/software co-designs for Xilinx Zynq PSoCs",
+        "source": "2018 International Conference on Reconfigurable Computing and FPGAs, ReConFig 2018"
+    },
+    "11": {
+        "title": "A framework to specify system requirements using natural interpretation of UML/MARTE diagrams",
+        "source": "Software and Systems Modeling"
+    },
+    "12": {
+        "title": "Semantics-Directed Prototyping of Hardware Runtime Monitors",
+        "source": "Proceedings - IEEE International Symposium on Rapid System Prototyping, RSP"
+    },
+    "13": {
+        "title": "Synthesis of aperiodic antenna array with minimum sidelobe levels using modified differential evolution",
+        "source": "International Journal of Innovative Technology and Exploring Engineering"
+    },
+    "14": {
+        "title": "MDE4IoT and ModComp 2019 - Joint Proceedings of the Workshop on Model-Driven Engineering for the Internet of Things and of the Workshop on Interplay of Model-Driven and Component-Based Software Engineering, co-located with the IEEE/ACM 22nd International Conference on Model Driven Engineering Languages and Systems, MODELS 2019",
+        "source": "CEUR Workshop Proceedings"
+    },
+    "15": {
+        "title": "13th International Conference on Evaluation of Novel Approaches to Software Engineering, ENASE 2018",
+        "source": "Communications in Computer and Information Science"
+    },
+    "16": {
+        "title": "Analysing meta-model product lines",
+        "source": "SLE 2018 - Proceedings of the 11th ACM SIGPLAN International Conference on Software Language Engineering, co-located with SPLASH 2018"
+    },
+    "17": {
+        "title": "A tool for domain-independent model mutation",
+        "source": "Science of Computer Programming"
+    },
+    "18": {
+        "title": "(WIP) CloudCAMP: Automating the deployment and management of cloud services",
+        "source": "Proceedings - 2018 IEEE International Conference on Services Computing, SCC 2018 - Part of the 2018 IEEE World Congress on Services"
+    },
+    "19": {
+        "title": "Systematic mapping study of template-based code generation",
+        "source": "Computer Languages, Systems and Structures"
+    },
+    "20": {
+        "title": "AutoModel: A domain-specific language for automatic modeling of real-Time embedded systems",
+        "source": "Proceedings - International Conference on Software Engineering"
+    },
+    "21": {
+        "title": "A modeling front-end for seamless design and generation of context-aware Dynamically Reconfigurable Systems-on-Chip",
+        "source": "Journal of Parallel and Distributed Computing"
+    },
+    "22": {
+        "title": "Systematic Model-Based Design and Implementation of Supervisors for Advanced Driver Assistance Systems",
+        "source": "IEEE Transactions on Intelligent Transportation Systems"
+    },
+    "23": {
+        "title": "A Model-based approach for the synthesis of software to firmware adapters for use with automatically generated components",
+        "source": "Software and Systems Modeling"
+    },
+    "24": {
+        "title": "A graphical modelling editor for starsoc design flow tool based on model driven engineering approach",
+        "source": "E-Informatica Software Engineering Journal"
+    },
+    "25": {
+        "title": "5th International Conference on Model-Driven Engineering and Software Development, MODELSWARD 2017",
+        "source": "Communications in Computer and Information Science"
+    },
+    "26": {
+        "title": "Model-Based System Design and Evaluation of Image Processing Architectures with SimTAny Framework",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "27": {
+        "title": "From modeling to model-based programming",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "28": {
+        "title": "Automated synthesis of a real-time scheduling for cyber-physical multi-core systems",
+        "source": "Communications in Computer and Information Science"
+    },
+    "29": {
+        "title": "Model driven approach for real-time requirement analysis of multi-agent systems",
+        "source": "Computer Languages, Systems and Structures"
+    },
+    "30": {
+        "title": "Proceedings - ACM/IEEE 20th International Conference on Model Driven Engineering Languages and Systems, MODELS 2017",
+        "source": "Proceedings - ACM/IEEE 20th International Conference on Model Driven Engineering Languages and Systems, MODELS 2017"
+    },
+    "31": {
+        "title": "Comparison of the expressiveness and performance of template-based code generation tools",
+        "source": "SLE 2017 - Proceedings of the 10th ACM SIGPLAN International Conference on Software Language Engineering, co-located with SPLASH 2017"
+    },
+    "32": {
+        "title": "A Random Forest Using a Multi-valued Decision Diagram on an FPGA",
+        "source": "Proceedings of The International Symposium on Multiple-Valued Logic"
+    },
+    "33": {
+        "title": "Engineering cyber-physical systems-Mechatronics wine in new bottles?",
+        "source": "2016 IEEE International Conference on Computational Intelligence and Computing Research, ICCIC 2016"
+    },
+    "34": {
+        "title": "Automated reasoning based user interface",
+        "source": "Expert Systems with Applications"
+    },
+    "35": {
+        "title": "MODELSWARD 2017 - Proceedings of the 5th International Conference on Model-Driven Engineering and Software Development",
+        "source": "MODELSWARD 2017 - Proceedings of the 5th International Conference on Model-Driven Engineering and Software Development"
+    },
+    "36": {
+        "title": "Empowering high tech systems engineering using MDSE ecosystems (invited talk)",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "37": {
+        "title": "7th International Conference on Model and Data Engineering, MEDI 2017",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "38": {
+        "title": "Design of hemi-spherical conformal array with a wide-angle scanning",
+        "source": "9th International Conference on Microwave and Millimeter Wave Technology, ICMMT 2016 - Proceedings"
+    },
+    "39": {
+        "title": "Transformation of Failure Propagation Models into Fault Trees for Safety Evaluation Purposes",
+        "source": "Proceedings - 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN-W 2016"
+    },
+    "40": {
+        "title": "Model driven design of heterogeneous synchronous embedded systems",
+        "source": "ASE 2016 - Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering"
+    },
+    "41": {
+        "title": "A Cloud-Based Immersive Learning Environment for Distributed Systems Algorithms",
+        "source": "Proceedings - International Computer Software and Applications Conference"
+    },
+    "42": {
+        "title": "Model-driven synthesis of formally precise, stylized software architectures",
+        "source": "Formal Aspects of Computing"
+    },
+    "43": {
+        "title": "Case study of product line approach to provide embedded and desktop-based applications",
+        "source": "Proceedings - 2015 Brazilian Symposium on Computing Systems Engineering, SBESC 2015"
+    },
+    "44": {
+        "title": "Toward an integrated framework for the simulation, formal analysis and enactment of discrete events systems models",
+        "source": "Proceedings - Winter Simulation Conference"
+    },
+    "45": {
+        "title": "Computational design synthesis using model-driven engineering and constraint programming",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "46": {
+        "title": "AnBx: Automatic generation and verification of security protocols implementations",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "47": {
+        "title": "CEUR Workshop Proceedings",
+        "source": "CEUR Workshop Proceedings"
+    },
+    "48": {
+        "title": "Affordable safe and secure mobility evolution",
+        "source": "Automated Driving: Safer and More Efficient Future Driving"
+    },
+    "49": {
+        "title": "Dynamic partial reconfiguration of logic controllers implemented in FPGAs",
+        "source": "Proceedings of SPIE - The International Society for Optical Engineering"
+    },
+    "50": {
+        "title": "A Model Driven method to represent Free Choice Petri Nets as Sequence Diagram",
+        "source": "2015 4th International Conference on Software Engineering and Computer Systems, ICSECS 2015: Virtuous Software Solutions for Big Data"
+    },
+    "51": {
+        "title": "Proceedings - IEEE International Enterprise Distributed Object Computing Workshop, EDOCW",
+        "source": "Proceedings - IEEE International Enterprise Distributed Object Computing Workshop, EDOCW"
+    },
+    "52": {
+        "title": "An MDE approach for rapid prototyping and implementation of Dynamic Reconfigurable Systems",
+        "source": "ACM Transactions on Design Automation of Electronic Systems"
+    },
+    "53": {
+        "title": "A formal, model-driven design flow for system simulation and multi-core implementation",
+        "source": "2015 10th IEEE International Symposium on Industrial Embedded Systems, SIES 2015 - Proceedings"
+    },
+    "54": {
+        "title": "From subsets of model elements to submodels: A characterization of submodels and their properties",
+        "source": "Software and Systems Modeling"
+    },
+    "55": {
+        "title": "Formal synthesis of application and platform behaviors of embedded software systems",
+        "source": "Software and Systems Modeling"
+    },
+    "56": {
+        "title": "Toward a model-driven engineering framework for reproducible simulation experiment lifecycle management",
+        "source": "Proceedings - Winter Simulation Conference"
+    },
+    "57": {
+        "title": "The role of supervisory controller synthesis in automatic control software development",
+        "source": "Science of Computer Programming"
+    },
+    "58": {
+        "title": "Unified meta-modeling framework using bond graph grammars for conceptual modeling",
+        "source": "Robotics and Autonomous Systems"
+    },
+    "59": {
+        "title": "The interface-modular method for global system behaviour specification",
+        "source": "Communications in Computer and Information Science"
+    },
+    "60": {
+        "title": "Designing of SPF based secure web application using forward engineering",
+        "source": "2015 International Conference on Computing for Sustainable Global Development, INDIACom 2015"
+    },
+    "61": {
+        "title": "Employing early model-based safety evaluation to iteratively derive E/E architecture design",
+        "source": "Science of Computer Programming"
+    },
+    "62": {
+        "title": "Towards a collaborative framework for the design and development of data-intensive mobile applications",
+        "source": "1st International Conference on Mobile Software Engineering and Systems, MOBILESoft 2014 - Proceedings"
+    },
+    "63": {
+        "title": "Using MDD to the automatic synthesis of graphical user interfaces for health information systems",
+        "source": "CIBSE 2014: Proceedings of the 17th Ibero-American Conference Software Engineering"
+    },
+    "64": {
+        "title": "Assigning time budgets to component functions in the design of time-critical automotive systems",
+        "source": "ASE 2014 - Proceedings of the 29th ACM/IEEE International Conference on Automated Software Engineering"
+    },
+    "65": {
+        "title": "Correct-by-construction synthesis of model transformations using transformation patterns",
+        "source": "Software and Systems Modeling"
+    },
+    "66": {
+        "title": "Extending UML/MARTE to support discrete controller synthesis, application to reconfigurable systems-on-chip modeling",
+        "source": "ACM Transactions on Reconfigurable Technology and Systems"
+    },
+    "67": {
+        "title": "Adaptivity in high-performance embedded systems: A reactive control model for reliable and flexible design",
+        "source": "Knowledge Engineering Review"
+    },
+    "68": {
+        "title": "Specifying intra-component dependencies for synthesizing component behaviors",
+        "source": "CEUR Workshop Proceedings"
+    },
+    "69": {
+        "title": "Modeling and execution of scientific workflows with the jabc framework",
+        "source": "Communications in Computer and Information Science"
+    },
+    "70": {
+        "title": "Synthesizing VHDL from activity models in UML 2",
+        "source": "International Journal of Circuit Theory and Applications"
+    },
+    "71": {
+        "title": "ACTRESS: Domain-specific modeling of self-adaptive software architectures",
+        "source": "Proceedings of the ACM Symposium on Applied Computing"
+    },
+    "72": {
+        "title": "17th Ibero-American Conference on Software Engineering, CIBSE 2014",
+        "source": "CIBSE 2014: Proceedings of the 17th Ibero-American Conference Software Engineering"
+    },
+    "73": {
+        "title": "Guest editorial: Special section on software engineering in industrial automation",
+        "source": "IEEE Transactions on Industrial Informatics"
+    },
+    "74": {
+        "title": "Bottom-up model-driven development",
+        "source": "Proceedings - International Conference on Software Engineering"
+    },
+    "75": {
+        "title": "Synthesis of resilient choreographies",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "76": {
+        "title": "Synthesis from temporal specifications: New applications in robotics and model-driven development",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "77": {
+        "title": "Mathematical Foundations of Computer Science 2013 - 38th International Symposium, MFCS 2013, Proceedings",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "78": {
+        "title": "Producing software by integration: Challenges and research directions (Keynote)",
+        "source": "2013 9th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering, ESEC/FSE 2013 - Proceedings"
+    },
+    "79": {
+        "title": "User-driven automation of web form filling",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "80": {
+        "title": "On the integration of model-driven design and dynamic assertion-based verification for embedded software",
+        "source": "Journal of Systems and Software"
+    },
+    "81": {
+        "title": "Modelling and enterprises: The past, the present and the future",
+        "source": "MODELSWARD 2013 - Proceedings of the 1st International Conference on Model-Driven Engineering and Software Development"
+    },
+    "82": {
+        "title": "Pol: Specification-driven synthesis of architectural code frameworks for platform-based applications",
+        "source": "ACM SIGPLAN Notices"
+    },
+    "83": {
+        "title": "A model-based synthesis process for choreography realizability enforcement",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "84": {
+        "title": "Constraint-based specification of model transformations",
+        "source": "Journal of Systems and Software"
+    },
+    "85": {
+        "title": "A model-driven engineering approach for immersive mixed-reality environments",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "86": {
+        "title": "Automatic synthesis of heterogeneous CPU-GPU embedded applications from a UML profile",
+        "source": "CEUR Workshop Proceedings"
+    },
+    "87": {
+        "title": "Formal Aspects of Component Software - 8th International Symposium, FACS 2011, Revised Selected Papers",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "88": {
+        "title": "Modeling and synthesis of a dynamic and partial reconfiguration controller",
+        "source": "Proceedings - 22nd International Conference on Field Programmable Logic and Applications, FPL 2012"
+    },
+    "89": {
+        "title": "Including Hardware/Software co-design in the ASSERT model driven engineering process",
+        "source": "Ada User Journal"
+    },
+    "90": {
+        "title": "Towards reliable smart microgrid behavior using runtime model synthesis",
+        "source": "Proceedings of IEEE International Symposium on High Assurance Systems Engineering"
+    },
+    "91": {
+        "title": "Functional validation of AADL models via model transformation to SystemC with ATL",
+        "source": "MODELS 2012 Innsbruck - Proceedings of the 5th International Workshop on Model Based Architecting and Construction of Embedded Systems, ACES-MB 2012"
+    },
+    "92": {
+        "title": "Workshop on MBEES 2012: Model-Based Development of Embedded Systems VIII",
+        "source": "Tagungsband - Dagstuhl-Workshop MBEES: Modellbasierte Entwicklung eingebetteter Systeme VIII, MBEES 2012"
+    },
+    "93": {
+        "title": "Proceedings - 38th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2012",
+        "source": "Proceedings - 38th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2012"
+    },
+    "94": {
+        "title": "MADES FP7 EU project: Effective high level SysML/MARTE methodology for real-time and embedded avionics systems",
+        "source": "ReCoSoC 2012 - 7th International Workshop on Reconfigurable and Communication-Centric Systems-on-Chip, Proceedings"
+    },
+    "95": {
+        "title": "Synthesis of software from logical constraints",
+        "source": "ICSOFT 2012 - Proceedings of the 7th International Conference on Software Paradigm Trends"
+    },
+    "96": {
+        "title": "ICSOFT 2012 - Proceedings of the 7th International Conference on Software Paradigm Trends",
+        "source": "ICSOFT 2012 - Proceedings of the 7th International Conference on Software Paradigm Trends"
+    },
+    "97": {
+        "title": "An MDE-based synthesis of aircraft safety models",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "98": {
+        "title": "Model and Data Engineering - 2nd International Conference, MEDI 2012, Proceedings",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "99": {
+        "title": "Pol: Specification-driven synthesis of architectural code frameworks for platform-based applications",
+        "source": "Proceedings of the 11th International Conference on Generative Programming and Component Engineering, GPCE'12"
+    },
+    "100": {
+        "title": "Model Driven Engineering Languages and Systems - 15th International Conference, MODELS 2012, Proceedings",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "101": {
+        "title": "Model transformations for migrating legacy models: An industrial case study",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "102": {
+        "title": "Modeling security aspects in distributed real-time component-based embedded systems",
+        "source": "Proceedings of the 9th International Conference on Information Technology, ITNG 2012"
+    },
+    "103": {
+        "title": "Model-driven development with eUML-ARC",
+        "source": "Proceedings of the ACM Symposium on Applied Computing"
+    },
+    "104": {
+        "title": "Scenario modeling and verification for business processes",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "105": {
+        "title": "Dynamic constraint satisfaction problems over models",
+        "source": "Software and Systems Modeling"
+    },
+    "106": {
+        "title": "A model-driven engineering framework for embedded systems design",
+        "source": "Innovations in Systems and Software Engineering"
+    },
+    "107": {
+        "title": "Modular artifact synthesis from domain-specific models",
+        "source": "Innovations in Systems and Software Engineering"
+    },
+    "108": {
+        "title": "A domain-specific modeling approach to realizing user-centric communication",
+        "source": "Software - Practice and Experience"
+    },
+    "109": {
+        "title": "Welcome message from the chairs",
+        "source": "2011 26th IEEE/ACM International Conference on Automated Software Engineering, ASE 2011, Proceedings"
+    },
+    "110": {
+        "title": "MDE: Towards an aid in the design process",
+        "source": "Actes du XXIXeme Congres INFORSID 2011"
+    },
+    "111": {
+        "title": "Safety-assured development of the GPCA infusion pump software",
+        "source": "Embedded Systems Week 2011, ESWEEK 2011 - Proceedings of the 9th ACM International Conference on Embedded Software, EMSOFT'11"
+    },
+    "112": {
+        "title": "A model-driven design framework for massively parallel embedded systems",
+        "source": "Transactions on Embedded Computing Systems"
+    },
+    "113": {
+        "title": "Synthesis of fault detection mechanisms track: Real-time, embedded and physical systems",
+        "source": "Proceedings - International Computer Software and Applications Conference"
+    },
+    "114": {
+        "title": "A DSML for coordinating user-centric communication services",
+        "source": "Proceedings - International Computer Software and Applications Conference"
+    },
+    "115": {
+        "title": "Supporting model based design",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "116": {
+        "title": "FPGA physical-design automation using model-driven Engineering",
+        "source": "6th International Workshop on Reconfigurable Communication-Centric Systems-on-Chip, ReCoSoC 2011 - Proceedings"
+    },
+    "117": {
+        "title": "From flow-global choreography to component types",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "118": {
+        "title": "Managing constraints of validation in model transformations",
+        "source": "SoftCOM 2010 - International Conference on Software, Telecommunications and Computer Networks"
+    },
+    "119": {
+        "title": "A requirement framework for enablement of automatic generation of domain model",
+        "source": "2010 International Conference on Computer Information Systems and Industrial Management Applications, CISIM 2010"
+    },
+    "120": {
+        "title": "Proc. of the 3rd Int. Workshop on Model Based Architecting and Construction of Embedded Systems, ACES-MB 2010 - Held as Part of the 2010 Int. Conf. on Model Driven Engineering Languages and Systems, MoDELS 2010",
+        "source": "CEUR Workshop Proceedings"
+    },
+    "121": {
+        "title": "Modular synthesis of mobile device applications from domain-specific models",
+        "source": "Proceedings - 7th International Workshop on Model-based Methodologies for Pervasive and Embedded Software, MOMPES 2010"
+    },
+    "122": {
+        "title": "From MARTE to reconfigurable NoCs: A model driven design methodology",
+        "source": "Dynamic Reconfigurable Network-on-Chip Design: Innovations for Computational Processing and Communication"
+    },
+    "123": {
+        "title": "Proceedings - 17th Asia Pacific Software Engineering Conference: Software for Improving Quality of Life, APSEC 2010",
+        "source": "Proceedings - Asia-Pacific Software Engineering Conference, APSEC"
+    },
+    "124": {
+        "title": "Proceedings - 36th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2010",
+        "source": "Proceedings - 36th EUROMICRO Conference on Software Engineering and Advanced Applications, SEAA 2010"
+    },
+    "125": {
+        "title": "Taming graphical modeling",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "126": {
+        "title": "IWMCP 2010 - 1st International Workshop on Model Comparison in Practice, in Conjunction with Tools 2010 Federated Conferences",
+        "source": "ACM International Conference Proceeding Series"
+    },
+    "127": {
+        "title": "Mirador: A synthesis of model matching strategies",
+        "source": "ACM International Conference Proceeding Series"
+    },
+    "128": {
+        "title": "Synthesis of OCL pre-conditions for graph transformation rules",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "129": {
+        "title": "Barriers to systematic model transformation testing",
+        "source": "Communications of the ACM"
+    },
+    "130": {
+        "title": "Graphical template language for transformation synthesis",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "131": {
+        "title": "Evolution support in heterogeneous service-oriented landscapes",
+        "source": "Journal of the Brazilian Computer Society"
+    },
+    "132": {
+        "title": "Targeting reconfigurable FPGA based SoCs using the UML MARTE profile: From high abstraction levels to code generation",
+        "source": "International Journal of Embedded Systems"
+    },
+    "133": {
+        "title": "Aspects across software life cycle: A goal-driven approach",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "134": {
+        "title": "A new mathematical approach for synthsis of state based models from scenario based models",
+        "source": "2009 International Conference on Computer and Electrical Engineering, ICCEE 2009"
+    },
+    "135": {
+        "title": "Tool support for the rapid composition, analysis and implementation of reactive services",
+        "source": "Journal of Systems and Software"
+    },
+    "136": {
+        "title": "Identification of crosscutting c onstraints in metamodel- Based model transformations",
+        "source": "IEEE EUROCON 2009, EUROCON 2009"
+    },
+    "137": {
+        "title": "Towards the operational semantics of user-centric communication models",
+        "source": "Proceedings - International Computer Software and Applications Conference"
+    },
+    "138": {
+        "title": "MDD with added null-value and all-value edges applied to multi-valued domino logic gates",
+        "source": "Journal of Multiple-Valued Logic and Soft Computing"
+    },
+    "139": {
+        "title": "Proceedings of the 2009 ICSE Workshop on Model-Based Methodologies for Pervasive and Embedded Software, MOMPES 2009",
+        "source": "Proceedings of the 2009 ICSE Workshop on Model-Based Methodologies for Pervasive and Embedded Software, MOMPES 2009"
+    },
+    "140": {
+        "title": "MDE approach to the co-synthesis of embedded systems using a MOF-based internal design representation",
+        "source": "Proceedings of the 2009 ICSE Workshop on Model-Based Methodologies for Pervasive and Embedded Software, MOMPES 2009"
+    },
+    "141": {
+        "title": "Fundamental Approaches to Software Engineering - 12th International Conference, FASE 2009 Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2009, Proceedings",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "142": {
+        "title": "A model driven approach to adapt instructional strategies modelling language to different design contexts",
+        "source": "Proceedings - International Conference on Mobile, Hybrid, and On-line Learning, eLmL 2009"
+    },
+    "143": {
+        "title": "12th International Conference on Fundamental Approaches to Software Engineering, FASE 2009, held as part of the Joint Conferences on Theory and Practice of Software, ETAPS 2009",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "144": {
+        "title": "A generic weaver for supporting Product Lines",
+        "source": "Proceedings - International Conference on Software Engineering"
+    },
+    "145": {
+        "title": "A model transformation framework for model driven engineering",
+        "source": "Modelling, Simulation, Verification and Validation of Enterprise Information Systems (MSVVEIS)- Proc. 6th Int. Workshop on MSVVEIS 2008; In Conjunction with ICEIS 2008"
+    },
+    "146": {
+        "title": "Towards a model-driven engineering approach for developing embedded hard real-time software",
+        "source": "Proceedings of the ACM Symposium on Applied Computing"
+    },
+    "147": {
+        "title": "Model-driven prototyping based requirements elicitation",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "148": {
+        "title": "Using modern mathematics as an fosd modeling language",
+        "source": "GPCE'08: Proceedings of the ACM SIGPLAN 7th International Conference on Generative Programming and Component Engineering"
+    },
+    "149": {
+        "title": "Model-driven engineering for high-performance computing applications",
+        "source": "Proceedings of the IASTED International Conference on Modelling and Simulation"
+    },
+    "150": {
+        "title": "The objects and arrows of computational design",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "151": {
+        "title": "A model driven approach to represent sequence diagrams as free choice petri nets",
+        "source": "Proceedings - 12th IEEE International Enterprise Distributed Object Computing Conference, EDOC 2008"
+    },
+    "152": {
+        "title": "Model-driven engineering for autonomic provisioned systems",
+        "source": "Proceedings - International Computer Software and Applications Conference"
+    },
+    "153": {
+        "title": "A computer aided design for optimization of optical networks",
+        "source": "ONDM 2008 - 12th Conference on Optical Network Design and Modelling"
+    },
+    "154": {
+        "title": "Proceedings the 19th IEEE/IFIP International Symposium on Rapid System Prototyping - Shortening the Path from Specification to Prototype, RSP 2008",
+        "source": "Proceedings The 19th IEEE/IFIP International Symposium on Rapid System Prototyping - Shortening the Path from Specification to Prototype, RSP 2008"
+    },
+    "155": {
+        "title": "Embedded firmware development with multi-way branching",
+        "source": "3rd International Conference on Systems, ICONS 2008"
+    },
+    "156": {
+        "title": "MDD with added null-value and all-value edges",
+        "source": "Proceedings of The International Symposium on Multiple-Valued Logic"
+    },
+    "157": {
+        "title": "Synthesis of monitors for real-time analysis of reactive systems",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "158": {
+        "title": "Model-driven analysis and synthesis of textual concrete syntax",
+        "source": "Software and Systems Modeling"
+    },
+    "159": {
+        "title": "Constraint-driven development",
+        "source": "Information and Software Technology"
+    },
+    "160": {
+        "title": "Generative metaprogramming",
+        "source": "GPCE'07 - Proceedings of the Sixth International Conference on Generative Programming and Component Engineering"
+    },
+    "161": {
+        "title": "Compiler Construction - 16th International Conference, CC 2007. Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2007, Proceedings",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "162": {
+        "title": "Feature oriented model driven development: A case study for portlets",
+        "source": "Proceedings - International Conference on Software Engineering"
+    },
+    "163": {
+        "title": "Proceedings - 29<sup>th</sup> International Conference on Software Engineering, ICSE 2007",
+        "source": "Proceedings - International Conference on Software Engineering"
+    },
+    "164": {
+        "title": "Program refactoring, program synthesis, and model-driven development",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "165": {
+        "title": "Modeling time(s)",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "166": {
+        "title": "Weaving multiple aspects in sequence diagrams",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "167": {
+        "title": "Model based development of safety-critical systems using template based code generation",
+        "source": "Proceedings - 13th Pacific Rim International Symposium on Dependable Computing, PRDC 2007"
+    },
+    "168": {
+        "title": "Synthesizing communication middleware from explicit connectors in component based distributed architectures",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "169": {
+        "title": "MDDAUI 2006 - Proceedings of the MoDELS 2006 Workshop on Model Driven Development of Advanced User Interfaces",
+        "source": "CEUR Workshop Proceedings"
+    },
+    "170": {
+        "title": "2nd Workshop on Mutation Analysis Mutation 2006 - ISSRE Workshops 2006 Mutation06",
+        "source": "2nd Workshop on Mutation Analysis (Mutation 2006 - ISSRE Workshops 2006), MUTATION'06"
+    },
+    "171": {
+        "title": "Feature modularity in software product lines",
+        "source": "Proceedings - 10th International Software Product Line Conference, SPLC 2006"
+    },
+    "172": {
+        "title": "A comparative survey of scenario-based to state-based model synthesis approaches",
+        "source": "Proceedings - International Conference on Software Engineering"
+    },
+    "173": {
+        "title": "A model-driven approach to design two assistance tools for building construction coordination",
+        "source": "Proceedings of the 6th European Conference on Product and Process Modelling - eWork and eBusiness in Architecture, Engineering and Construction, ECPPM 2006"
+    },
+    "174": {
+        "title": "CODES+ISSS 2006: 4th International Conference on Hardware Software Codesign and System Synthesis",
+        "source": "CODES+ISSS 2006: Proceedings of the 4th International Conference on Hardware Software Codesign and System Synthesis"
+    },
+    "175": {
+        "title": "Scenarios, goals, and state machines: A win-win partnership for model synthesis",
+        "source": "Proceedings of the ACM SIGSOFT Symposium on the Foundations of Software Engineering"
+    },
+    "176": {
+        "title": "Multilevel models in model-driven engineering, product lines, and metaprogramming",
+        "source": "IBM Systems Journal"
+    },
+    "177": {
+        "title": "Applying model-driven development to distributed real-time and embedded avionics systems",
+        "source": "International Journal of Embedded Systems"
+    },
+    "178": {
+        "title": "Mutation-based model synthesis in model driven engineering",
+        "source": "2nd Workshop on Mutation Analysis (Mutation 2006 - ISSRE Workshops 2006), MUTATION'06"
+    },
+    "179": {
+        "title": "Model Driven Engineering Languages and Systems - 9th International Conference, MoDELS 2006, Proceedings",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "180": {
+        "title": "3rd European Workshop on Software Architecture, EWSA 2006",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "181": {
+        "title": "5th IFIP TC 10 Working Conference on Distributed and Parallel Embedded Systems, DIPES 2006",
+        "source": "IFIP Advances in Information and Communication Technology"
+    },
+    "182": {
+        "title": "Proceedings - Dagstuhl Workshop MBEES: Model-based development of embedded systems, MBEES 2005",
+        "source": "Tagungsband - Dagstuhl-Workshop MBEES: Modellbasierte Entwicklung eingebetteter Systeme, MBEES 2005"
+    },
+    "183": {
+        "title": "Towards the model-driven development of self-optimizing mechatronic systems",
+        "source": "Tagungsband - Dagstuhl-Workshop MBEES: Modellbasierte Entwicklung eingebetteter Systeme, MBEES 2005"
+    },
+    "184": {
+        "title": "Keynote address 1: Model driven development for distributed real-time and embedded systems",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "185": {
+        "title": "Model-driven development of reconfigurable mechatronic systems with MECHATRONIC UML",
+        "source": "Lecture Notes in Computer Science"
+    },
+    "186": {
+        "title": "An integrated approach of variable ordering and logic mapping into LUT-array-based PLD",
+        "source": "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences"
+    },
+    "187": {
+        "title": "CoSMIC: Addressing crosscutting deployment and configuration concerns of distributed real-time and embedded systems",
+        "source": "Proceedings of the Conference on Object-Oriented Programming Systems, Languages, and Applications, OOPSLA"
+    },
+    "188": {
+        "title": "A UML profile for executable and incremental specification-level modeling",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "189": {
+        "title": "Efficient minimization of multiple-valued decision diagrams for incompletely specified functions",
+        "source": "Proceedings of The International Symposium on Multiple-Valued Logic"
+    },
+    "190": {
+        "title": "Selection of efficient re-ordering heuristics for MDD construction",
+        "source": "Proceedings of The International Symposium on Multiple-Valued Logic"
+    },
+    "191": {
+        "title": "New multivalued functional decomposition algorithms based on MDDs",
+        "source": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+    },
+    "192": {
+        "title": "New multivalued functional decomposition algorithms based on MDDs",
+        "source": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+    },
+    "193": {
+        "title": "MDD-based synthesis of multi-valued logic networks",
+        "source": "Proceedings of The International Symposium on Multiple-Valued Logic"
+    },
+    "194": {
+        "title": "Representations of multiple-output switching functions using multiple-valued pseudo-Kronecker decision diagrams",
+        "source": "Proceedings of The International Symposium on Multiple-Valued Logic"
+    },
+    "195": {
+        "title": "Automatic architecture synthesis and compiler retargeting for VLIW and EPIC processors",
+        "source": "HP Laboratories Technical Report"
+    },
+    "196": {
+        "title": "Speaker verification using mixture likelihood profiles extracted from speaker independent hidden Markov models",
+        "source": "ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings"
+    },
+    "197": {
+        "title": "Fast discrete function evaluation using decision diagrams",
+        "source": "IEEE/ACM International Conference on Computer-Aided Design, Digest of Technical Papers"
+    }
+}

@@ -1,0 +1,1 @@
+SCOPUS_API_KEY = "d6eb37bdacc27fa8ae513659edc79d82"

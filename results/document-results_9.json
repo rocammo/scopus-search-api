@@ -1,0 +1,38 @@
+{
+    "1": {
+        "title": "Cognification of program synthesis—a systematic feature-oriented analysis and future direction",
+        "source": "Computers"
+    },
+    "2": {
+        "title": "Functional validation of AADL models via model transformation to SystemC with ATL",
+        "source": "MODELS 2012 Innsbruck - Proceedings of the 5th International Workshop on Model Based Architecting and Construction of Embedded Systems, ACES-MB 2012"
+    },
+    "3": {
+        "title": "Welcome message from the chairs",
+        "source": "2011 26th IEEE/ACM International Conference on Automated Software Engineering, ASE 2011, Proceedings"
+    },
+    "4": {
+        "title": "Model-driven prototyping based requirements elicitation",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "5": {
+        "title": "The objects and arrows of computational design",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "6": {
+        "title": "Generative metaprogramming",
+        "source": "GPCE'07 - Proceedings of the Sixth International Conference on Generative Programming and Component Engineering"
+    },
+    "7": {
+        "title": "Compiler Construction - 16th International Conference, CC 2007. Held as Part of the Joint European Conferences on Theory and Practice of Software, ETAPS 2007, Proceedings",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "8": {
+        "title": "Program refactoring, program synthesis, and model-driven development",
+        "source": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    "9": {
+        "title": "Feature modularity in software product lines",
+        "source": "Proceedings - 10th International Software Product Line Conference, SPLC 2006"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "9": {
+        "title": "Synthesizing structured CAD models with equality saturation and inverse transformations",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "25": {
+        "title": "Provenance-guided synthesis of datalog programs",
+        "source": "Proceedings of the ACM on Programming Languages"
+    },
+    "35": {
+        "title": "From typestate verification to interpretable deep models (invited talk abstract)",
+        "source": "ISSTA 2019 - Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis"
+    },
+    "36": {
+        "title": "Synthesis and machine learning for heterogeneous extraction",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "63": {
+        "title": "Overfitting in semantics-based automated program repair",
+        "source": "Empirical Software Engineering"
+    },
+    "70": {
+        "title": "Accelerating search-based program synthesis using learned probabilistic models",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "72": {
+        "title": "The semantics of transactions and weak memory in x86, power, ARM, and C++",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "103": {
+        "title": "JFIX: Semantics-based repair of Java programs via symbolic PathFinder",
+        "source": "ISSTA 2017 - Proceedings of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis"
+    },
+    "107": {
+        "title": "Automatic program inversion using symbolic transducers",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "109": {
+        "title": "Synthesizing memory models from framework sketches and litmus tests",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "165": {
+        "title": "Chlorophyll: Synthesis-aided compiler for low-power spatial architectures",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "166": {
+        "title": "FlashExtract: A framework for data extraction by examples",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "174": {
+        "title": "Automated feedback generation for introductory programming assignments",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "175": {
+        "title": "TRANSIT: Specifying protocols with concolic snippets",
+        "source": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)"
+    },
+    "208": {
+        "title": "Resource prioritization of code optimization techniques for program synthesis of wireless sensor network applications",
+        "source": "Journal of Systems and Software"
+    },
+    "238": {
+        "title": "Scaling step-wise refinement",
+        "source": "IEEE Transactions on Software Engineering"
+    }
+}
